@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.QuoteOfTheDay" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/ocean_gradient_start</item>
+        <item name="colorPrimaryVariant">@color/ocean_gradient_start</item>
+        <item name="colorOnPrimary">@color/ocean_text_light</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/ocean_fab_accent</item>
+        <item name="colorSecondaryVariant">@color/ocean_fab_accent</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+
+    <style name="Theme.QuoteOfTheDay" parent="Base.Theme.QuoteOfTheDay" />
+</resources>
+

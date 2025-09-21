@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Oceanic Night Theme Colors -->
+    <color name="ocean_gradient_start">#023e8a</color> <!-- Royal Blue -->
+    <color name="ocean_gradient_center">#302b63</color>
+    <color name="ocean_gradient_end">#0077b6</color>   <!-- Star Command Blue -->
+    <color name="ocean_primary_dark">#0f0c29</color> <!-- Added this for the toolbar -->
+
+    <color name="ocean_card_background">#A603045E</color> <!-- 65% Transparent Dark Blue -->
+    <color name="ocean_text_light">#FFFFFFFF</color>     <!-- Pure White -->
+    <color name="ocean_fab_accent">#FFD60A</color>       <!-- Vibrant Gold/Yellow -->
+</resources>
+
